@@ -30,3 +30,9 @@ const comida = {
     desayuno: "Hot Cakes",
     comida: "Chilaquiles"
 }
+
+const juegos = {
+    mesa: "UNO",
+    videojugo: "Halo",
+    deporte: "Ajedrez"
+}
