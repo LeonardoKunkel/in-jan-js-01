@@ -28,7 +28,8 @@ iva = 10;
 // Object
 const comida = {
     desayuno: "Hot Cakes",
-    comida: "Chilaquiles"
+    comida: "Chilaquiles",
+    cena: "Quesadillas"
 }
 
 const juegos = {
