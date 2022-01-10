@@ -25,8 +25,8 @@ iva = 10;
 
 
 // NO PRIMITIVOS
-const nombre = "Leonardo Bravo";
-const edad = 29;
-const isIronhacker = true;
-const gonnaGetJob = undefined;
-const hasACar = null;
+// Object
+const comida = {
+    desayuno: "Hot Cakes",
+    comida: "Chilaquiles"
+}
